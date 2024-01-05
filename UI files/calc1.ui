@@ -50,7 +50,7 @@
        <bool>false</bool>
       </property>
       <property name="digitCount">
-       <number>13</number>
+       <number>8</number>
       </property>
      </widget>
     </item>
